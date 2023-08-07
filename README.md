@@ -1,2 +1,1 @@
-# html-portfolio
-Work-in-progress Portfolio website
+# html-portfolio (OUTDATED)
